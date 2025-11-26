@@ -1,0 +1,36 @@
+
+.vermelho{
+    color:red;
+}
+
+body{
+    margin: 0;
+}
+
+nav{
+    height: 60px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: yellow;
+}
+
+.container{
+    margin-left: 75px;
+    margin-top: 40px;
+}
+
+.elemento-formulario{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
